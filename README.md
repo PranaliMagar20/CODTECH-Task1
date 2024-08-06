@@ -60,6 +60,11 @@ The project can be customized or enhanced depending on specific requirements, su
 Conclusion
 This project provides a fundamental example of how to manage and manipulate a collection of objects (students) in C++. It covers basic operations like adding, editing, and deleting records, as well as calculating and displaying data. This serves as a foundation for more complex student management systems or similar applications that require record-keeping and data manipulation.
 
+Output of this Project
+![Screenshot 2024-08-06 125221](https://github.com/user-attachments/assets/db9b70ce-b851-44e3-b88a-349593704735)
+
+
+
 
 
 
