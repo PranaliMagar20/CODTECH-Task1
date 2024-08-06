@@ -1,9 +1,9 @@
 # CODTECH-Task1
-# Name: Pranali  Magar
-# Company: CODTECH IT SOLUTIONS
-# ID:CT08DS5826
-# Domain: Cpp programming
-# Duration:July to Sept 2024
+ Name: Pranali  Magar.
+ Company: CODTECH IT SOLUTIONS.
+ ID:CT08DS5826.
+ Domain: Cpp programming.
+ Duration:July to Sept 2024.
 
 # Overview of the Project
 This C++ project is a simple command-line-based Student Management System that allows users to manage student records, including adding, editing, and deleting student information, as well as calculating and displaying grades. Below is an overview of the key components and functionality of the project.
